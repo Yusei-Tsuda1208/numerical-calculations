@@ -1,0 +1,31 @@
+#canvas1,#canvas2,#canvas3,#canvas4{
+    background-color: gainsboro;
+}
+
+body{
+    text-align: center ;
+    background-color: #c6f3e9;
+
+}
+
+h3{
+    padding-top:30px;
+    font-size:25px;
+}
+
+.button{
+    font-size:20px;
+    color:white;
+    background-color: rgb(74, 74, 197);
+}
+
+h1{
+    font-size:40px;
+    border-bottom: 5px solid rgb(63, 92, 197);
+}
+
+h2{
+    font-size:30px;
+}
+
+
